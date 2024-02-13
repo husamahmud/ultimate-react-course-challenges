@@ -24,3 +24,8 @@
     <summary style="font-size: 14px">Tip Calculator</summary>
     <img alt="chal-5.png" src="assets/chal-5.png">
 </details>
+
+<details>
+    <summary style="font-size: 14px">Text Expander Component</summary>
+    <img alt="chal-6.png" src="assets/chal-6.png">
+</details>
