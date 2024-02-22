@@ -32,5 +32,10 @@
 
 <details>
     <summary style="font-size: 14px">Currency Converter</summary>
-    <img alt="chal-6.png" src="assets/chal-7.png">
+    <img alt="chal-7.png" src="assets/chal-7.png">
+</details>
+
+<details>
+    <summary style="font-size: 14px">useGeolocate</summary>
+    <img alt="chal-8.png" src="assets/chal-8.png">
 </details>
