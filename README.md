@@ -39,3 +39,8 @@
     <summary style="font-size: 14px">useGeolocate</summary>
     <img alt="chal-8.png" src="assets/chal-8.png">
 </details>
+
+<details>
+    <summary style="font-size: 14px">useReducer Bank Account</summary>
+    <img alt="chal-9.png" src="assets/chal-9.png">
+</details>
